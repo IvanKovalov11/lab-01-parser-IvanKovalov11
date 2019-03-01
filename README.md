@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/bmstu-iu8-35-cpp-2018/lab-01-parser-KadrusBAG.svg?token=s7iLXFTi1v8PVmBWeeL7&branch=MY_JSON)](https://travis-ci.com/bmstu-iu8-35-cpp-2018/lab-01-parser-KadrusBAG)
+[![Build Status](https://travis-ci.com/IvanKovalov11/lab-01-parser-IvanKovalov11.svg?branch=master)](https://travis-ci.com/IvanKovalov11/lab-01-parser-IvanKovalov11)
 
 # Задание 1
 Реализовать парсер данных в формате JSON.
